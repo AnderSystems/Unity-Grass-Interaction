@@ -1,4 +1,4 @@
-Grass Collision Solution in Unity URP
+<b>Grass Collision Solution in Unity URP</b>
 Description
 This repository contains a custom solution for grass collision in Unity URP. Unlike traditional methods that create a single collision point, this approach uses an orthographic camera to render a top-down view and applies the rendered image as a collision mask on the grass. The solution includes a custom shader that lowers the grass based on the alpha channel of the texture.
 
